@@ -1,1 +1,1 @@
-# mgsoftware
+# MG Software - Landing page
